@@ -1,0 +1,15 @@
+Microsoft Windows [Version 10.0.18362.900]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+(venv) C:\Users\hero\Desktop\python>python
+Python 3.8.2 (tags/v3.8.2:7b3ab59, Feb 25 2020, 22:45:29) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 1684650 + 357000
+2041650
+>>> 1360080+357000
+1717080
+>>> 1041000+357000
+1398000
+>>> 1232860+357000
+1589860
+>>>
